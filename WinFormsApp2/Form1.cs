@@ -11,5 +11,10 @@ namespace WinFormsApp2
         {
             MessageBox.Show("Butona týklandý");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("test asdads");
+        }
     }
 }
