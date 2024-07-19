@@ -1,0 +1,6 @@
+git bash kurulduktan sonra kullanýcý bilgilerini giriyoruz
+
+git config -- global user.name "Berkwn"
+git config --global user.email "berkand180@gmail.com"
+
+git version control sistemini hangi dizine kuracaksak orayý almamýz lazým
